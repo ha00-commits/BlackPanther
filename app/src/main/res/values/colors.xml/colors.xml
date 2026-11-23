@@ -1,0 +1,8 @@
+<resources>
+    <color name="bp_bg">#0A0A0A</color>
+    <color name="bp_green">#00E676</color>
+    <color name="bp_red">#FF1744</color>
+    <color name="bp_white">#FFFFFF</color>
+    <color name="bp_gray">#888888</color>
+    <color name="bp_icon_bg">#050505</color>
+</resources>
